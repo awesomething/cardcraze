@@ -1,7 +1,7 @@
 # Card Craze
 
 ## Description
-This is the craziest card game you ever played with multi-player users in real-time
+This is the craziest card game you ever played
 
 ### General Requirements
 - This is a solo project!
